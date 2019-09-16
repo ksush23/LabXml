@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Concerts>
+  <Concert
+    Artist = "Imagine Dragons"
+    Date = "31.08.2018" 
+    PriceRange = "800-5000"
+    Location = "Київ, НСК Олімпійський"
+    Style = "Рок"
+    ArtistBand = "Група">
+  </Concert>
+  <Concert
+    Artist = "Hurts"
+    Date = "22.11.2017" 
+    PriceRange = "2000-8000"
+    Location = "Львів, Велотрек СКА"
+    Style = "Поп"
+    ArtistBand = "Група">
+  </Concert>
+  <Concert
+    Artist = "Hurts"
+    Date = "23.11.2017" 
+    PriceRange = "200-8000"
+    Location = "Київ, StereoPlaza"
+    Style = "Поп"
+    ArtistBand = "Група">
+  </Concert>
+  <Concert
+    Artist = "Sting and Shaggy"
+    Date = "14.11.2018" 
+    PriceRange = "2000-8000"
+    Location = "Київ, Палац Спорту"
+    Style = "Рок"
+    ArtistBand = "Сольний виконавець">
+  </Concert>
+  <Concert
+    Artist = "Христина Соловій"
+    Date = "7.12.2018" 
+    PriceRange = "350-2100"
+    Location = "Київ, Жовтневий Палац"
+    Style = "Народна музика"
+    ArtistBand = "Сольний виконавець">
+  </Concert>
+  <Concert
+    Artist = "Христина Соловій"
+    Date = "17.12.2018" 
+    PriceRange = "350-2100"
+    Location = "Одеса, Національний Академічний театр опери і балету"
+    Style = "Народна музика"
+    ArtistBand = "Сольний виконавець">
+  </Concert>
+  <Concert
+    Artist = "30 seconds to Mars"
+    Date = "30.04.2018" 
+    PriceRange = "1300-7000"
+    Location = "Київ, Палац Спорту"
+    Style = "Рок"
+    ArtistBand = "Група">
+  </Concert>
+  <Concert
+    Artist = "Depeche Mode"
+    Date = "19.07.2017" 
+    PriceRange = "800-5000"
+    Location = "Київ, НСК Олімпійський"
+    Style = "Рок"
+    ArtistBand = "Група">
+  </Concert>
+  <Concert
+    Artist = "Three Days Grace"
+    Date = "25.10.2018" 
+    PriceRange = "800-5000"
+    Location = "Київ, StereoPlaza"
+    Style = "Рок"
+    ArtistBand = "Група">
+  </Concert>
+  <Concert
+    Artist = "Kazka"
+    Date = "12.12.2018" 
+    PriceRange = "1200-3500"
+    Location = "Київ, Bel etage"
+    Style = "Поп"
+    ArtistBand = "Група">
+  </Concert>
+  <Concert
+    Artist = "ONUKA"
+    Date = "29.11.2018" 
+    PriceRange = "300-2600"
+    Location = "Чернівці, театр ім. Ольги Кобилянської"
+    Style = "Поп"
+    ArtistBand = "Група">
+  </Concert>
+  <Concert
+    Artist = "ONUKA"
+    Date = "07.12.2018" 
+    PriceRange = "300-2600"
+    Location = "Київ, StereoPlaza"
+    Style = "Поп"
+    ArtistBand = "Група">
+  </Concert>
+  <Concert
+    Artist = "ONUKA"
+    Date = "26.11.2018" 
+    PriceRange = "300-2600"
+    Location = "Одеса, Музкомедія"
+    Style = "Поп"
+    ArtistBand = "Група">
+  </Concert>
+  <Concert
+    Artist = "Сергій Бабкін"
+    Date = "27.11.2018" 
+    PriceRange = "300-2600"
+    Location = "Одеса, Одеська обласна філармонія"
+    Style = "Поп"
+    ArtistBand = "Сольний виконавець">
+  </Concert>
+  <Concert
+    Artist = "Сергій Бабкін"
+    Date = "15.12.2018" 
+    PriceRange = "300-2600"
+    Location = "Чернівці, Чернівецька філармонія"
+    Style = "Поп"
+    ArtistBand = "Сольний виконавець">
+  </Concert>
+  <Concert
+    Artist = "Сергій Бабкін"
+    Date = "11.12.2018" 
+    PriceRange = "300-2600"
+    Location = "Київ, Палац Україна"
+    Style = "Поп"
+    ArtistBand = "Сольний виконавець">
+  </Concert>
+  <Concert
+    Artist = "ЛСП"
+    Date = "30.11.2018" 
+    PriceRange = "500-3500"
+    Location = "Київ, StereoPlaza"
+    Style = "Реп"
+    ArtistBand = "Сольний виконавець">
+  </Concert>
+  <Concert
+    Artist = "Скриптонит"
+    Date = "01.12.2018" 
+    PriceRange = "800-5000"
+    Location = "Київ, StereoPlaza"
+    Style = "Реп"
+    ArtistBand = "Сольний виконавець">
+  </Concert>
+</Concerts>
